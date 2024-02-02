@@ -1,4 +1,4 @@
-TASK : Predict heart ejection fraction from NT-pro-bnp, Anion gap, SBP and sex
+TASK : Predict heart ejection fraction from NT-pro-bnp, Anion gap, SBP, and sex
 
 Performance measures :  Root mean square error and Mean absolute error (use only if normaly distributed) will be tested in Tree different models with cross-validation (cv=10):
 
