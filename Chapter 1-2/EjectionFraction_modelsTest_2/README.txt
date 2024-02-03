@@ -1,4 +1,4 @@
-TASK : Predict heart ejection fraction this time with a clean data set containing mostly blood markers (38 colums/ 42 rows)
+TASK : Predict heart ejection fraction this time with a clean data set containing mostly blood markers (38 colums/ 428 rows)
 Performance measures :  Root mean square error and Mean absolute error (use only if normaly distributed) will be tested in three different models with cross-validation (cv=10):
 
 linear regression(  RMSE_crossVal -> 12.78 ± 1.52%);
