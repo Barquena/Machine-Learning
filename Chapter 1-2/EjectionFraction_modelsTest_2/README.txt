@@ -5,7 +5,7 @@ linear regression(  RMSE_crossVal -> 12.78 ± 1.52%);
 Decision tree (     RMSE_crossVal -> 16.47 ± 1.57%);
 Random forest(      RMSE_crossVal -> 12.32 ± 1.29%).
 
-Random forest was retained for fine-tunning. The best fit model return a RMSE of 12.72 [max_features=21, n_estimators=500, conf_int [10.40, 14.08]] where the bestpredictor of ejection fraction were :
+Random forest was retained for fine-tunning. The best fit model return a RMSE of 12.72 [max_features=21, n_estimators=500, conf_int [10.40, 14.08]] where the best predictor of ejection fraction were :
  (0.0773) 'Diastolic blood pressure',
  (0.0659) 'Creatine kinase',
  (0.0542) 'Creatinine',
